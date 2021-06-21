@@ -5,7 +5,7 @@
 
 ### How to start
 - Clone this repository
-- Copy example.env to .env
+- Copy `example.env` to `.env`
 - Run `npm install`
 - Copy `plugins/example` to `plugins/your-plugin`
 - Start the development bot using `npm run start:dev`
